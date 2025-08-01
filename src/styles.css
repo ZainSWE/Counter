@@ -61,3 +61,9 @@ main {
 .count-text {
     font-size: 5rem;
 }
+
+* {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    touch-action: manipulation;
+}
